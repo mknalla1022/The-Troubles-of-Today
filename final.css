@@ -20,13 +20,13 @@ html, body {
   }
   
   #anxiety {
-    max-width: 54%;
+    max-width: 74%;
     border-radius: 15%;
     left: 20px;
   }
   
   #depression {
-    max-width: 34%;
+    max-width: 74%;
     border-radius: 15%;
     left: 40px;
   }
