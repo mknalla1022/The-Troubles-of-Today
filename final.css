@@ -157,11 +157,6 @@ html, body {
   dd {
     margin-left: 2px; /* Add space between term and description */
   }
-    /* Remove bullets from cause and effect section */
-.anxiety ul {
-    list-style-type: none;
-    padding-left: 0;
-}
 
   /* Default styles for larger screens */
 body {
